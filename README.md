@@ -1,4 +1,4 @@
-# RescueLink - Disaster Response Drone System with YOLOv8
+# RescueLink - Disaster Response Drone System
 
 ## Project Overview
 **RescueLink** is an AI-powered drone system designed to deliver medical supplies and communication devices to remote areas during natural disasters.  
